@@ -18,7 +18,7 @@ logsource:
     definition: 'Requirements: Sysmon config with Imphash logging activated'
 detection:
     selection:
-        EventID: 25
+        EventID: 35
     filter1:
         Imphash: '00000000000000000000000000000000'
     filter2:
