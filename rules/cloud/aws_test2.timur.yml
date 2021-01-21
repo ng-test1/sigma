@@ -2,7 +2,7 @@ title: Test2 AWS RDS Master Password Change (Timur Zinniatullin)
 id: 8a63cdd4-6207-414a-85bc-7e032bd3c1a2
 status: experimental
 description: Detects the change of database master password. It may be a part of data exfiltration.
-author: faloker
+author: Timur Zinniatullin
 date: 2020/02/12
 modified: 2020/09/01
 references:
